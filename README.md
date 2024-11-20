@@ -12,7 +12,7 @@ This project does not have any dependencies and can be run directly in any moder
 ### Installation
 1. Clone the repo
    ```bash
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Akshint0407/fun-facts.git
 2.Open the index.html file in your web browser.
 
 ## Usage
