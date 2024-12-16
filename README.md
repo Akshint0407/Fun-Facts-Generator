@@ -1,4 +1,4 @@
-# Random Fact Generator
+# Fun Fact Generator
 
 ## About The Project
 This project is a simple single-page application that displays random personal facts about me. It's built with HTML, CSS, and JavaScript.
